@@ -45,8 +45,11 @@ These filters eliminate emotionally compelling but realistically and structurall
 
 ## SCENARIO ANALYSIS (SUMMARY)
 Scenario A: Continued, full-scale war vs. Israel + US + International coalition — Not feasible.
+
 Scenario B: Closure of the Hormuz Strait — Not feasible.
+
 Scenario C: Ceasefire, peace deal, or strategic pull-back — Dominant equilibrium.
+
 
 > (Expanded in /scenarios/).
 
