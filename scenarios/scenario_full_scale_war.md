@@ -63,6 +63,6 @@ Even partial escalation may result in:
 - Narrowing of diplomatic exit ramps / strategic pull-back options as coalition pressure intensifies.
 
 ## VIABILITY ASSESSMENT
-This scenario proves infeasible.
-
 The combination of severe military asymmetry, coalition escalation risk, and direct threats to regime continuity render full-scale war a non-dominant path under rational leadership.
+
+> This scenario fails under regime survival logic outlined in [Regime Survival Logic](/framework/regime_survival_logic.md).
