@@ -9,7 +9,7 @@ Implicit market assumptions primarily include:
 - Iran can deter or withstand direct, military involvement from the United States.
 - Escalation improves Iran's negotiating position rather than accelerating existential regime risk.
 
-This scenario underscores forecasts of prolonged, regional conflict and sustained oil price dislocation.
+This scenario underscores forecasts of prolonged, regional conflict, and sustained oil price dislocation.
 
 ## PREREQUISITES
 For this scenario to prove probable, the following conditions must maintain:
