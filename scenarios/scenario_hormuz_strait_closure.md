@@ -67,4 +67,4 @@ Even partial escalation may result in:
 ## VIABILITY ASSESSMENT
 The combination of operational unsustainability, guaranteed coalition response, economic collapse, and direct threats to regime continuity renders closure of the Hormuz strait a non-dominant path under rational leadership.
 
-> This scenario fails under regime survival logic outlined in [Regime Survival Logic](/framework/regime_survival_logic.md).
+> This scenario fails under regime survival logic outlined in [Regime Survival Logic](/framework/iran_regime_deconstructed.md).
