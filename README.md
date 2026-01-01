@@ -40,7 +40,7 @@ Black Sands applies three primary filters for decision mapping:
 
 These filters eliminate emotionally compelling but realistically and structurally improbable paths.
 
-> (Expanded in /framework/).
+> (Expanded in [`/framework/`](./framework/))
 
 
 ## SCENARIO ANALYSIS (SUMMARY)
@@ -51,7 +51,7 @@ Scenario B: Closure of the Hormuz Strait — Not feasible.
 Scenario C: Ceasefire, peace deal, or strategic pull-back — Dominant equilibrium.
 
 
-> (Expanded in /scenarios/).
+> (Expanded in [`/scenarios/`](./scenarios/)).
 
 
 ## OBSERVED OUTCOME
