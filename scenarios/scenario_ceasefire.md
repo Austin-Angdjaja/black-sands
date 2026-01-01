@@ -67,4 +67,4 @@ A pullback, in this case:
 ## VIABILITY ASSESSMENT
 The combination of severe military asymmetry, high coalition escalation risk, fragile economic capacity, and historical regime behavior under existential threat renders strategic pullback / ceasefire the dominant path under rational leadership.
 
-> This scenario succeeds under regime survival logic outlined in [Regime Survival Logic](/framework/regime_survival_logic.md).
+> This scenario succeeds under regime survival logic outlined in [Regime Survival Logic](/framework/iran_regime_deconstructed.md).
