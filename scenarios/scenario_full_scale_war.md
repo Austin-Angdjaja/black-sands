@@ -65,4 +65,4 @@ Even partial escalation may result in:
 ## VIABILITY ASSESSMENT
 The combination of severe military asymmetry, coalition escalation risk, and direct threats to regime continuity render full-scale war a non-dominant path under rational leadership.
 
-> This scenario fails under regime survival logic outlined in [Regime Survival Logic](/framework/regime_survival_logic.md).
+> This scenario fails under regime survival logic outlined in [Regime Survival Logic](/framework/iran_regime_deconstructed.md).
